@@ -1,4 +1,5 @@
 Flask Market App 💼
+
 Welcome to the Flask Market App repository! This project showcases a web application built with Flask, simulating a marketplace where users can register, log in, and buy or sell items. The app uses Flask for routing, SQLAlchemy for database management, Flask-Login for user authentication, and Jinja2 for templating.
 
 🌟 What's Inside?
